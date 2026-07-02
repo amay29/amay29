@@ -4,18 +4,18 @@ You can edit the details in this file to customize your profile.
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFADAD,FFC6FF,B19FFB&height=180&section=header&text=Hi%20there,%20I'm%20Amay%20✨&fontSize=35&fontColor=ffffff&fontAlignY=45&font=Fredoka" alt="Pastel Waving Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFADAD,FFC6FF,B19FFB&height=180&section=header&text=Hi%20there,%20I'm%20Amay%20%E2%9C%A8&fontSize=35&fontColor=ffffff&fontAlignY=45&font=Fredoka" alt="Pastel Waving Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=3000&pause=1000&color=B19FFB&center=true&vCenter=true&width=500&lines=Welcome+to+my+creative+corner!+✨;A+passionate+developer+building+cool+things+🚀;Always+learning,+always+creating+🌈" alt="Typing Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=3000&pause=1000&color=B19FFB&center=true&vCenter=true&width=500&lines=Welcome%20to%20my%20creative%20corner!%20%E2%9C%A8%3BA%20passionate%20developer%20building%20cool%20things%20%F0%9F%9A%80%3BAlways%20learning%2C%20always%20creating%20%F0%9F%8C%88" alt="Typing Tagline" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B19FFB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFADAD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" /></a> 
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFC6FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a> 
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-9BF6FF?style=for-the-badge&logo=gmail&logoColor=555555" alt="Email Badge" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B19FFB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFADAD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> 
+  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFC6FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-9BF6FF?style=for-the-badge&logo=gmail&logoColor=555555" alt="Email" /></a>
 </p>
 
 ---
@@ -35,7 +35,7 @@ You can edit the details in this file to customize your profile.
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="140" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.gif" alt="Sparkles" width="140" />
       <br/>
       <sub>✨ <i>"Cuteness is my aesthetic!"</i> ✨</sub>
     </td>
@@ -63,27 +63,14 @@ You can edit the details in this file to customize your profile.
 ---
 
 <h3 align="center">📊 GitHub Statistics</h3>
-<div align="center">
-  <!-- General Stats & Top Languages -->
-  <table border="0" cellpadding="5" cellspacing="5" align="center">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=amay29&show_icons=true&bg_color=FFF9F9&title_color=B19FFB&text_color=6C5B7B&icon_color=FFADAD&border_color=FFC6FF&locale=en" alt="Amay's GitHub Stats" height="185" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amay29&layout=compact&bg_color=FFF9F9&title_color=B19FFB&text_color=6C5B7B&icon_color=FFADAD&border_color=FFC6FF&locale=en" alt="Amay's Top Languages" height="185" />
-      </td>
-    </tr>
-  </table>
-  <!-- Streak Stats -->
-  <table border="0" cellpadding="5" cellspacing="5" align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amay29&background=FFF9F9&title=B19FFB&text=6C5B7B&sideNums=FFADAD&sideLabels=6C5B7B&ring=FFC6FF&fire=FFADAD&currStreakLabel=B19FFB&currStreakNum=FFADAD&border=FFC6FF" alt="Amay's Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amay29&show_icons=true&bg_color=FFF9F9&title_color=B19FFB&text_color=6C5B7B&icon_color=FFADAD&border_color=FFC6FF&locale=en" alt="Amay's GitHub Stats" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amay29&layout=compact&bg_color=FFF9F9&title_color=B19FFB&text_color=6C5B7B&icon_color=FFADAD&border_color=FFC6FF&locale=en" alt="Amay's Top Languages" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amay29&background=FFF9F9&title=B19FFB&text=6C5B7B&sideNums=FFADAD&sideLabels=6C5B7B&ring=FFC6FF&fire=FFADAD&currStreakLabel=B19FFB&currStreakNum=FFADAD&border=FFC6FF" alt="Amay's Streak" />
+</p>
 
 ---
 
