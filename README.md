@@ -63,10 +63,16 @@ You can edit the details in this file to customize your profile.
 
 ---
 
-<h3 align="center">📊 My GitHub Contribution Calendar</h3>
+<h3 align="center">🐍 My Contribution Snake</h3>
 <p align="center">
-  <!-- This displays your actual contribution grid customized in a beautiful blue palette! -->
-  <img src="https://ghchart.rshah.org/3B82F6/amay29" alt="Amay's Contribution Calendar" width="100%" />
+  <!-- 
+  This animated snake eats your actual GitHub contribution grid!
+  It will show up as soon as the GitHub Action workflow runs.
+  -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amay29/amay29/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/amay29/amay29/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  </picture>
 </p>
 
 ---
