@@ -60,25 +60,40 @@ You can edit the details in this file to customize your profile.
 
 ---
 
-<h3 align="center">📈 Contribution Activity Graph</h3>
+<h3 align="center">🎮 My GitHub Contribution Snake</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amay29&bg_color=FFF9F9&color=6C5B7B&line=B19FFB&point=FFADAD&area=true&area_color=FFC6FF&hide_border=true" alt="Amay's Contribution Activity Graph" width="100%" />
+  <!-- 
+  This snake eats your contributions! 
+  Note: You must set up the GitHub Action (instructions in walkthrough.md) to generate this image, 
+  otherwise it will be blank or show a placeholder.
+  -->
+  <img src="https://raw.githubusercontent.com/amay29/amay29/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+---
+
+<h3 align="center">📈 Contribution Activity Graph (Blue Pastel)</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amay29&bg_color=F0F4FF&color=1E3A8A&line=3B82F6&point=60A5FA&area=true&area_color=DBEAFE&hide_border=true" alt="Amay's Contribution Activity Graph" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amay29&background=FFF9F9&title=B19FFB&text=6C5B7B&sideNums=FFADAD&sideLabels=6C5B7B&ring=FFC6FF&fire=FFADAD&currStreakLabel=B19FFB&currStreakNum=FFADAD&border=FFC6FF" alt="Amay's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amay29&background=F0F4FF&title=3B82F6&text=1E3A8A&sideNums=3B82F6&sideLabels=1E3A8A&ring=60A5FA&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=3B82F6&border=9BF6FF" alt="Amay's Streak" />
 </p>
 
 ---
 
 <h3 align="center">⭐ Featured Projects</h3>
 <p align="center">
-  <!-- Replace PROJECT-NAME-1 and PROJECT-NAME-2 with your actual GitHub repository names! -->
-  <a href="https://github.com/amay29/PROJECT-NAME-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=PROJECT-NAME-1&bg_color=FFF9F9&title_color=B19FFB&text_color=6C5B7B&icon_color=FFADAD&border_color=FFC6FF" alt="Featured Project 1" height="120" />
+  <!-- 
+  IMPORTANT: Replace "YOUR-REPO-1" and "YOUR-REPO-2" with your actual GitHub repository names 
+  so that these cards display your projects instead of returning an error!
+  -->
+  <a href="https://github.com/amay29/YOUR-REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=YOUR-REPO-1&bg_color=F0F4FF&title_color=3B82F6&text_color=1E3A8A&icon_color=60A5FA&border_color=9BF6FF" alt="Featured Project 1" height="120" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/amay29/PROJECT-NAME-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=PROJECT-NAME-2&bg_color=FFF9F9&title_color=B19FFB&text_color=6C5B7B&icon_color=FFADAD&border_color=FFC6FF" alt="Featured Project 2" height="120" />
+  <a href="https://github.com/amay29/YOUR-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=YOUR-REPO-2&bg_color=F0F4FF&title_color=3B82F6&text_color=1E3A8A&icon_color=60A5FA&border_color=9BF6FF" alt="Featured Project 2" height="120" />
   </a>
 </p>
 
@@ -86,12 +101,12 @@ You can edit the details in this file to customize your profile.
 
 <h3 align="center">💭 Favorite Quote</h3>
 <div align="center">
-  <table bgcolor="#FFF9F9" border="0" cellpadding="20" cellspacing="0">
+  <table bgcolor="#F0F4FF" border="0" cellpadding="20" cellspacing="0">
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="70" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.gif" alt="Sparkles" width="70" />
         <br/>
-        <font size="4" color="#6C5B7B" face="Fredoka, Comfortaa, Courier New">
+        <font size="4" color="#1E3A8A" face="Fredoka, Comfortaa, Courier New">
           <i>"Do not kill the part of you that is cringe,<br/>
           kill the part that makes you feel cringe.<br/>
           <b>To be cringe is to be free.</b>"</i>
