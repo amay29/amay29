@@ -33,7 +33,10 @@ You can edit the details in this file to customize your profile.
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.gif" alt="Sparkles" width="140" />
+      <picture>
+        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="Sparkles" width="140" />
+      </picture>
       <br/>
       <sub>✨ <i>"Cuteness is my aesthetic!"</i> ✨</sub>
     </td>
@@ -60,19 +63,15 @@ You can edit the details in this file to customize your profile.
 
 ---
 
-<h3 align="center">🎮 My GitHub Contribution Snake</h3>
+<h3 align="center">📊 My GitHub Contribution Calendar</h3>
 <p align="center">
-  <!-- 
-  This snake eats your contributions! 
-  Note: You must set up the GitHub Action (instructions in walkthrough.md) to generate this image, 
-  otherwise it will be blank or show a placeholder.
-  -->
-  <img src="https://raw.githubusercontent.com/amay29/amay29/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <!-- This displays your actual contribution grid customized in a beautiful blue palette! -->
+  <img src="https://ghchart.rshah.org/3B82F6/amay29" alt="Amay's Contribution Calendar" width="100%" />
 </p>
 
 ---
 
-<h3 align="center">📈 Contribution Activity Graph (Blue Pastel)</h3>
+<h3 align="center">📈 Contribution Activity & Streak (Blue Pastel)</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amay29&bg_color=F0F4FF&color=1E3A8A&line=3B82F6&point=60A5FA&area=true&area_color=DBEAFE&hide_border=true" alt="Amay's Contribution Activity Graph" width="100%" />
 </p>
@@ -85,15 +84,15 @@ You can edit the details in this file to customize your profile.
 <h3 align="center">⭐ Featured Projects</h3>
 <p align="center">
   <!-- 
-  IMPORTANT: Replace "YOUR-REPO-1" and "YOUR-REPO-2" with your actual GitHub repository names 
-  so that these cards display your projects instead of returning an error!
+  Note: We pre-filled the repo name with "amay29" (your profile repo) so that it shows up successfully right away!
+  You can change these repo names later when you have more public repositories.
   -->
-  <a href="https://github.com/amay29/YOUR-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=YOUR-REPO-1&bg_color=F0F4FF&title_color=3B82F6&text_color=1E3A8A&icon_color=60A5FA&border_color=9BF6FF" alt="Featured Project 1" height="120" />
+  <a href="https://github.com/amay29/amay29">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=amay29&bg_color=F0F4FF&title_color=3B82F6&text_color=1E3A8A&icon_color=60A5FA&border_color=9BF6FF" alt="Featured Project 1" height="120" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/amay29/YOUR-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=YOUR-REPO-2&bg_color=F0F4FF&title_color=3B82F6&text_color=1E3A8A&icon_color=60A5FA&border_color=9BF6FF" alt="Featured Project 2" height="120" />
+  <a href="https://github.com/amay29/amay29">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=amay29&bg_color=F0F4FF&title_color=3B82F6&text_color=1E3A8A&icon_color=60A5FA&border_color=9BF6FF" alt="Featured Project 2" height="120" />
   </a>
 </p>
 
@@ -101,20 +100,23 @@ You can edit the details in this file to customize your profile.
 
 <h3 align="center">💭 Favorite Quote</h3>
 <div align="center">
-  <table bgcolor="#F0F4FF" border="0" cellpadding="20" cellspacing="0">
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.gif" alt="Sparkles" width="70" />
-        <br/>
-        <font size="4" color="#1E3A8A" face="Fredoka, Comfortaa, Courier New">
-          <i>"Do not kill the part of you that is cringe,<br/>
-          kill the part that makes you feel cringe.<br/>
-          <b>To be cringe is to be free.</b>"</i>
-        </font>
-        <br/>
-        <br/>
-        <sub>🌱 <b>Amay's Life Philosophy</b></sub>
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="Sparkles" width="70" />
+  </picture>
+  <br/>
+  <br/>
+  <blockquote>
+    <p align="center">
+      <font size="4" color="#1E3A8A" face="Fredoka, Comfortaa, sans-serif">
+        <b>"Do not kill the part of you that is cringe,<br/>
+        kill the part that makes you feel cringe.<br/>
+        To be cringe is to be free."</b>
+      </font>
+    </p>
+  </blockquote>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" alt="Rainbow" width="40" />
+  </picture>
 </div>
