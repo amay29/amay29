@@ -1,5 +1,10 @@
+<!-- 
+✨ WELCOME TO YOUR PASTEL & PLAYFUL GITHUB PROFILE README! ✨
+You can edit the details in this file to customize your profile.
+-->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFADAD,FFC6FF,B19FFB&height=180&section=header&text=Hi%20there,%20I'm%20Amay%20%E2%9C%A8&fontSize=35&fontColor=ffffff&fontAlignY=45&font=Fredoka" alt="Pastel Waving Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9BF6FF,A0C4FF,B19FFB&height=180&section=header&text=Hi%20there,%20I'm%20Amay%20%E2%9C%A8&fontSize=35&fontColor=ffffff&fontAlignY=45&font=Fredoka" alt="Pastel Waving Header" />
 </p>
 
 <p align="center">
@@ -55,11 +60,9 @@
 
 ---
 
-<h3 align="center">📊 GitHub Statistics</h3>
+<h3 align="center">📈 Contribution Activity Graph</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amay29&show_icons=true&bg_color=FFF9F9&title_color=B19FFB&text_color=6C5B7B&icon_color=FFADAD&border_color=FFC6FF&locale=en" alt="Amay's GitHub Stats" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amay29&layout=compact&bg_color=FFF9F9&title_color=B19FFB&text_color=6C5B7B&icon_color=FFADAD&border_color=FFC6FF&locale=en" alt="Amay's Top Languages" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amay29&bg_color=FFF9F9&color=6C5B7B&line=B19FFB&point=FFADAD&area=true&area_color=FFC6FF&hide_border=true" alt="Amay's Contribution Activity Graph" width="100%" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amay29&background=FFF9F9&title=B19FFB&text=6C5B7B&sideNums=FFADAD&sideLabels=6C5B7B&ring=FFC6FF&fire=FFADAD&currStreakLabel=B19FFB&currStreakNum=FFADAD&border=FFC6FF" alt="Amay's Streak" />
@@ -67,14 +70,35 @@
 
 ---
 
-### 💭 Favorite Quote
+<h3 align="center">⭐ Featured Projects</h3>
+<p align="center">
+  <!-- Replace PROJECT-NAME-1 and PROJECT-NAME-2 with your actual GitHub repository names! -->
+  <a href="https://github.com/amay29/PROJECT-NAME-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=PROJECT-NAME-1&bg_color=FFF9F9&title_color=B19FFB&text_color=6C5B7B&icon_color=FFADAD&border_color=FFC6FF" alt="Featured Project 1" height="120" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/amay29/PROJECT-NAME-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=PROJECT-NAME-2&bg_color=FFF9F9&title_color=B19FFB&text_color=6C5B7B&icon_color=FFADAD&border_color=FFC6FF" alt="Featured Project 2" height="120" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">💭 Favorite Quote</h3>
 <div align="center">
-  <table border="0">
+  <table bgcolor="#FFF9F9" border="0" cellpadding="20" cellspacing="0">
     <tr>
       <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="70" />
         <br/>
-        <h3>✨ <i>"Do not kill the part of you that is cringe, kill the part that makes you feel cringe.<br/>To be cringe is to be free"</i> ✨</h3>
+        <font size="4" color="#6C5B7B" face="Fredoka, Comfortaa, Courier New">
+          <i>"Do not kill the part of you that is cringe,<br/>
+          kill the part that makes you feel cringe.<br/>
+          <b>To be cringe is to be free.</b>"</i>
+        </font>
         <br/>
+        <br/>
+        <sub>🌱 <b>Amay's Life Philosophy</b></sub>
       </td>
     </tr>
   </table>
