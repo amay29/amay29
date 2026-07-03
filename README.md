@@ -1,8 +1,3 @@
-<!-- 
-✨ WELCOME TO YOUR PASTEL & PLAYFUL GITHUB PROFILE README! ✨
-You can edit the details in this file to customize your profile.
--->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFADAD,FFC6FF,B19FFB&height=180&section=header&text=Hi%20there,%20I'm%20Amay%20%E2%9C%A8&fontSize=35&fontColor=ffffff&fontAlignY=45&font=Fredoka" alt="Pastel Waving Header" />
 </p>
@@ -23,15 +18,13 @@ You can edit the details in this file to customize your profile.
 <table border="0" align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h3>🌸 About Me</h3>
-      <p>Hi! I'm <b>Amay</b>. I love creating beautiful, interactive, and playful web experiences. Here is a little bit about me:</p>
+      <h3>🌹 About Me</h3>
+      <p>Hi!👋 I'm <b>Amay</b>. I love creating interactive and playful web experiences. Here is a little bit about me:</p>
       <ul>
-        <li>🐣 <b>I'm currently working on:</b> [Write your project name or learning goal here!]</li>
-        <li>🌱 <b>I'm currently learning:</b> [e.g., React, Node.js, modern CSS layout tricks]</li>
-        <li>💖 <b>I'm passionate about:</b> [e.g., Front-end animation, UI/UX, or game development]</li>
-        <li>💬 <b>Ask me about:</b> [e.g., JavaScript, pastel designs, or custom setups]</li>
-        <li>📬 <b>How to reach me:</b> [e.g., email or social media DM]</li>
-        <li>🦄 <b>Fun fact:</b> [e.g., I spend way too much time customizing code themes]</li>
+        <li>💻 I'm currently focused on: <b>Full-stack web development and modern UI libraries</b></li>
+        <li>💖 I'm deeply passionate about building interactive web and app experiences</li>
+        <li>📚 An avid reader who loves diving into fictional novels, and I also enjoy swimming to refresh my mind</li>
+        <li>📬 How to reach me: Feel free to connect via Email or WhatsApp above!</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
