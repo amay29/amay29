@@ -1,128 +1,84 @@
-<!-- 
-✨ WELCOME TO YOUR PASTEL & PLAYFUL GITHUB PROFILE README! ✨
-You can edit the details in this file to customize your profile.
--->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9BF6FF,A0C4FF,B19FFB&height=180&section=header&text=Hi%20there,%20I'm%20Amay%20%E2%9C%A8&fontSize=35&fontColor=ffffff&fontAlignY=45&font=Fredoka" alt="Pastel Waving Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7DD3FC,38BDF8,0EA5E9&height=200&section=header&text=Hi,%20I'm%20%E2%9C%8E%20Your%20Name&fontSize=38&fontColor=ffffff&fontAlignY=40&font=Poppins" alt="header banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=3000&pause=1000&color=B19FFB&center=true&vCenter=true&width=500&lines=Welcome%20to%20my%20creative%20corner!%20%E2%9C%A8%3BA%20passionate%20developer%20building%20cool%20things%20%F0%9F%9A%80%3BAlways%20learning%2C%20always%20creating%20%F0%9F%8C%88" alt="Typing Tagline" />
+  <sub>✎ ganti <code>Your%20Name</code> di URL banner di atas dengan nama kamu (spasi pakai <code>%20</code>)</sub>
 </p>
+
+<h3 align="center">✎ satu baris tagline — yang nunjukkin apa yang kamu kerjain / lagi kamu pikirin</h3>
+<p align="center"><i>contoh: full-stack dev · nulis komponen rapi siang, ngoprek backend berantakan malam</i></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B19FFB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFADAD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> 
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFC6FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-9BF6FF?style=for-the-badge&logo=gmail&logoColor=555555" alt="Email" /></a>
+  <a href="✎ link-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="✎ link-portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="✎ link-instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-7DD3FC?style=for-the-badge&logo=instagram&logoColor=333" alt="Instagram" /></a>
+  <a href="mailto:✎-email-kamu"><img src="https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<br/>
 
-<table border="0" align="center" width="100%">
+## About
+
+<table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h3>🌹 About Me</h3>
-      <p>Hi!👋 I'm <b>Amay</b>. I love creating interactive and playful web experiences. Here is a little bit about me:</p>
+    <td width="100%">
+      <p>
+        ✎ tulis 2–3 kalimat tentang kamu — bukan "I love creating interactive experiences",
+        tapi sesuatu yang spesifik: apa yang lagi kamu kejar, project yang paling kamu bangga-in,
+        atau cara kerja yang khas kamu.
+      </p>
       <ul>
-        <li>💻 I'm currently focused on: <b>Full-stack web development and modern UI libraries</b></li>
-        <li>💖 I'm deeply passionate about building interactive web and app experiences</li>
-        <li>📚 An avid reader who loves diving into fictional novels, and I also enjoy swimming to refresh my mind</li>
-        <li>📬 How to reach me: Feel free to connect via Email or WhatsApp above!</li>
+        <li>🔭 Lagi ngerjain: <b>✎ ...</b></li>
+        <li>🌱 Lagi belajar: <b>✎ ...</b></li>
+        <li>💬 Bisa diajak diskusi soal: <b>✎ ...</b></li>
+        <li>⚡ Fun fact / kebiasaan: <b>✎ ...</b></li>
       </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <picture>
-        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="Sparkles" width="140" />
-      </picture>
-      <br/>
-      <sub>✨ <i>"Cuteness is my aesthetic!"</i> ✨</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-<h3 align="center">🛠️ My Creative Toolkit</h3>
+<h3 align="center">Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FFADAD?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-FFD3B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-FFEAA7?style=for-the-badge&logo=javascript&logoColor=323330" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-A0C4FF?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React.js-9BF6FF?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-CAFFBF?style=for-the-badge&logo=nextdotjs&logoColor=333" alt="Next.js" />
+  <sub>✎ sesuaikan badge di bawah dengan tools yang beneran kamu pakai — hapus/tambah seperlunya</sub>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-0EA5E9?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0284C7?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-7DD3FC?style=for-the-badge&logo=nodedotjs&logoColor=333" alt="Node.js" />
   <br/>
-  <img src="https://img.shields.io/badge/Prisma_ORM-B19FFB?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
-  <img src="https://img.shields.io/badge/Vite-FFC6FF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Node.js-E8A0BF?style=for-the-badge&logo=nodedotjs&logoColor=333" alt="Node.js" />
-  <img src="https://img.shields.io/badge/npm-A9F3FF?style=for-the-badge&logo=npm&logoColor=red" alt="npm" />
-  <img src="https://img.shields.io/badge/Git-FFADAD?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Prisma-0369A1?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Vite-38BDF8?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Git-0EA5E9?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-<h3 align="center">🐍 My Contribution Snake</h3>
+<h3 align="center">Activity</h3>
 <p align="center">
-  <!-- 
-  This animated snake eats your actual GitHub contribution grid!
-  It will show up as soon as the GitHub Action workflow runs.
-  -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amay29/amay29/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/amay29/amay29/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/amay29/amay29/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amay29&bg_color=F0F9FF&color=0369A1&line=0EA5E9&point=38BDF8&area=true&area_color=BAE6FD&hide_border=true" alt="activity graph" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amay29&background=F0F9FF&border=BAE6FD&ring=0EA5E9&fire=0369A1&currStreakLabel=0369A1&sideLabels=0369A1&sideNums=0EA5E9&currStreakNum=0EA5E9&stroke=38BDF8" alt="streak stats" />
 </p>
 
 ---
 
-<h3 align="center">📈 Contribution Activity & Streak (Blue Pastel)</h3>
+<h3 align="center">Featured</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amay29&bg_color=F0F4FF&color=1E3A8A&line=3B82F6&point=60A5FA&area=true&area_color=DBEAFE&hide_border=true" alt="Amay's Contribution Activity Graph" width="100%" />
+  <sub>✎ ganti <code>repo=...</code> di dua link bawah dengan nama repo yang mau kamu pamerin</sub>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amay29&background=F0F4FF&title=3B82F6&text=1E3A8A&sideNums=3B82F6&sideLabels=1E3A8A&ring=60A5FA&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=3B82F6&border=9BF6FF" alt="Amay's Streak" />
-</p>
-
----
-
-<h3 align="center">⭐ Featured Projects</h3>
-<p align="center">
-  <!-- 
-  Note: We pre-filled the repo name with "amay29" (your profile repo) so that it shows up successfully right away!
-  You can change these repo names later when you have more public repositories.
-  -->
-  <a href="https://github.com/amay29/amay29">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=amay29&bg_color=F0F4FF&title_color=3B82F6&text_color=1E3A8A&icon_color=60A5FA&border_color=9BF6FF" alt="Featured Project 1" height="120" />
+  <a href="https://github.com/amay29/✎-repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=✎-repo-1&bg_color=F0F9FF&title_color=0369A1&text_color=0284C7&icon_color=38BDF8&border_color=BAE6FD" alt="project 1" height="150" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/amay29/amay29">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=amay29&bg_color=F0F4FF&title_color=3B82F6&text_color=1E3A8A&icon_color=60A5FA&border_color=9BF6FF" alt="Featured Project 2" height="120" />
+  <a href="https://github.com/amay29/✎-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amay29&repo=✎-repo-2&bg_color=F0F9FF&title_color=0369A1&text_color=0284C7&icon_color=38BDF8&border_color=BAE6FD" alt="project 2" height="150" />
   </a>
 </p>
-
----
-
-<h3 align="center">💭 Favorite Quote</h3>
-<div align="center">
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="Sparkles" width="70" />
-  </picture>
-  <br/>
-  <br/>
-  <blockquote>
-    <p align="center">
-      <font size="4" color="#1E3A8A" face="Fredoka, Comfortaa, sans-serif">
-        <b>"Do not kill the part of you that is cringe,<br/>
-        kill the part that makes you feel cringe.<br/>
-        To be cringe is to be free."</b>
-      </font>
-    </p>
-  </blockquote>
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" alt="Rainbow" width="40" />
-  </picture>
-</div>
